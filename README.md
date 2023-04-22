@@ -20,7 +20,7 @@ For design files, check [here](https://www.codewell.cc/challenges/gradie-sign-up
 
 ### Links
 
-- Live Site URL: [click here](https://https://lanietodev.github.io/gradie-sign-up/)
+- Live Site URL: [click here](https://lanietodev.github.io/gradie-sign-up/)
 
 ## My process
 
